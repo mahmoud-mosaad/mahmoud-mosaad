@@ -72,13 +72,6 @@ Spring Boot • Microservices • Java • Keycloak • PHP • Laravel • Prob
 
 ---
 
-### 📫 Connect With Me
-- 🌐 [Portfolio / Personal Site](https://mahmoudmosaad.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/mahmoudmosaad50)
-- ✉️ Email: [mahmoudmosaad50@gmail.com](mailto:mahmoudmosaad50@gmail.com)
-
----
-
 ### ⚙️ GitHub Stats
 
 <p align="center">
@@ -86,7 +79,9 @@ Spring Boot • Microservices • Java • Keycloak • PHP • Laravel • Prob
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mosaad&layout=compact&theme=radical&title_color=ffc107" height="150" />
 </p>
 
----
+### 📫 Connect With Me
+- 🌐 [Portfolio / Personal Site](https://mahmoudmosaad.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/mahmoudmosaad50)
+- ✉️ Email: [mahmoudmosaad50@gmail.com](mailto:mahmoudmosaad50@gmail.com)
 
-⭐️ *"Clean architecture, secure systems, and performance — the pillars of every successful product."*
 
